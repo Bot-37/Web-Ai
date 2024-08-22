@@ -1,8 +1,3 @@
-# Web-Ai
-Certainly! Below is a template for a GitHub `README.md` file that provides clear and comprehensive documentation for your project, "Wanna Go For A Brain Safari?" built with Streamlit and Google's Generative AI.
-
----
-
 # Wanna Go For A Brain Safari?
 
 Welcome to "Wanna Go For A Brain Safari?" – an interactive Streamlit app that leverages Google's Generative AI to create an engaging and informative chat experience. Whether you're seeking knowledge or simply exploring the capabilities of AI, this app is your gateway to an intellectual adventure.
