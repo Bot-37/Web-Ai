@@ -31,7 +31,7 @@ Welcome to "Wanna Go For A Brain Safari?" – an interactive Streamlit app that 
 
 ![App Screenshot](demo/screenshot.png)
 
-Check out a live demo of the app [here](https://your-app-url.com).
+Check out a live demo of the app [here](https://web-ai-ak63.onrender.com/).
 
 ## Installation
 
