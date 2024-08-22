@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+import google-generativeai as genai
 
 # Set the title of the Streamlit app
 st.title("Wanna Go For A Brain Safari ?")
