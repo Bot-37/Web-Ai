@@ -103,9 +103,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Name:** Bot 37
+- **GitHub:** [your-username](https://github.com/Bot-37)
 
 ---
 
@@ -113,5 +112,3 @@ If you have any questions, feel free to reach out:
 - **Screenshots & Demo:** Replace the placeholder paths (e.g., `demo/screenshot.png`) with actual paths to your images or demo content. You can also update the live demo link.
 - **App URL:** Replace the placeholder link with the actual URL where your app is hosted, if applicable.
 - **Contact Information:** Update the contact section with your personal details or the project's maintainer.
-
-This `README.md` file is designed to be comprehensive, user-friendly, and informative, ensuring that anyone accessing the repository can understand, install, and use the app with ease.
