@@ -66,12 +66,29 @@ Check out a live demo of the app [here](https://your-app-url.com).
    ```
    Replace `app.py` with the actual name of your main Python script file.
 
+Here’s the final version that you can paste directly into your GitHub repository:
+
+---
+
 ## Usage
 
-1. Open your web browser and navigate to `http://localhost:8501`.
-2. Enter your Google Generative AI API key.
-3. Type your question into the input field and click the "Click me" button.
-4. Enjoy the AI-generated responses and explore the knowledge!
+1. **Run Streamlit:** Start the Streamlit application by running the following command in your terminal:
+   ```bash
+   streamlit run file/path
+   ```
+   Replace `file/path` with the actual path to your main Python script (e.g., `app.py`).
+
+2. **Open in Browser:** After running the command, Streamlit will automatically open your default web browser. If not, navigate to the URL provided in your terminal, which typically looks like this:
+   ```
+   http://localhost:8501
+   ```
+   or the specific URL shown in your terminal.
+
+3. **Enter API Key:** Enter your Google Generative AI API key into the input field provided on the webpage.
+
+4. **Ask a Question:** Type your question into the input field and click the "Click me" button.
+
+5. **Explore AI Responses:** Enjoy the AI-generated responses and dive into the knowledge provided by the model!
 
 ## Project Structure
 
@@ -104,11 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions, feel free to reach out:
 
 - **Name:** Bot 37
-- **GitHub:** [your-username](https://github.com/Bot-37)
+- **GitHub:** [Bot 37](https://github.com/Bot-37)
 
 ---
-
-### Notes:
-- **Screenshots & Demo:** Replace the placeholder paths (e.g., `demo/screenshot.png`) with actual paths to your images or demo content. You can also update the live demo link.
-- **App URL:** Replace the placeholder link with the actual URL where your app is hosted, if applicable.
-- **Contact Information:** Update the contact section with your personal details or the project's maintainer.
