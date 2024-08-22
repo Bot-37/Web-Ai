@@ -1,0 +1,40 @@
+# This file lists the necessary Python packages required to run the Streamlit app.
+# Follow the steps below to install the dependencies and set up your environment.
+
+# Step 1: Ensure you have Python installed.
+# The recommended version is Python 3.7 or higher. You can check your Python version by running:
+# python --version
+
+# Step 2: Install pip (Python's package installer) if you don't have it.
+# You can install pip by following the instructions here: https://pip.pypa.io/en/stable/installation/
+
+# Step 3: Create a virtual environment (optional but recommended).
+# Creating a virtual environment ensures that your project dependencies are isolated.
+# You can create a virtual environment by running:
+# python -m venv myenv
+# Activate the virtual environment:
+# On Windows: .\myenv\Scripts\activate
+# On macOS/Linux: source myenv/bin/activate
+
+# Step 4: Install the required libraries by running:
+# pip install -r requirements.txt
+# This command will install all the libraries listed below.
+
+# -------------------------------------------------------------------------------
+# Streamlit is a web application framework that allows you to create interactive
+# and dynamic web applications with minimal effort. It is used in this project
+# to build the user interface, handle user inputs, and display outputs.
+streamlit==1.25.0
+
+# google-generativeai is a Python library that provides an interface to interact
+# with Google's Generative AI models, such as the Gemini model. This library is
+# used in this project to send user queries to the AI model and receive responses.
+google-generativeai==0.1.0
+
+# -------------------------------------------------------------------------------
+# Additional dependencies can be added here if your project requires them in the future.
+
+# Step 5: Run the Streamlit app.
+# Once the libraries are installed, you can start the Streamlit app by running:
+# streamlit run app.py
+# Replace "app.py" with the actual name of your Python script file.
