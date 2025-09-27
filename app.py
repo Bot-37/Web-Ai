@@ -5,7 +5,7 @@ import google.generativeai as genai
 st.title("Welcome to Gemini Chat")
 
 # Configure the Generative AI API with your API key
-genai.configure(api_key="AIzaSyB_D7QCsFDc6G8plKj9foHIgjZxrlmrXek")
+genai.configure(api_key="YOUR_API_KEY")
 
 # Create a text input for the user to enter their question
 text = st.text_input("Enter your question")
@@ -21,3 +21,4 @@ if st.button("Click me"):
     
     # Display the model's response in the Streamlit app
     st.write(response.text)
+
